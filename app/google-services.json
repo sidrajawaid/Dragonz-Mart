@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "763645163455",
+    "firebase_url": "https://dragonz-mart.firebaseio.com",
+    "project_id": "dragonz-mart",
+    "storage_bucket": "dragonz-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763645163455:android:b456072513c3d943",
+        "android_client_info": {
+          "package_name": "com.dragonzmart.dragonzmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763645163455-9lv91p0be8n07p66acc1v4f4iblp5qsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dragonzmart.dragonzmart",
+            "certificate_hash": "f435048f5592b0a09a4fc9e05ecaef6dca01d2c5"
+          }
+        },
+        {
+          "client_id": "763645163455-5bur7765d7e4pbrdutaj9bfstddsilum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key":"",
+          "current _key": "AIzaSyAjcxnr3fIkOhlny1TCj-eypPgPnglkv2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763645163455-5bur7765d7e4pbrdutaj9bfstddsilum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
